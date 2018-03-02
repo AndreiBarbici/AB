@@ -1,0 +1,28 @@
+.italic {font-style: italic;
+padding: 5px;}
+.bold {font-weight: bold;}
+ul {list-style-type: none;
+margin: -10px;}
+body {
+      margin: auto;
+      box-shadow: 9px 10px 11px 0px rgba(0, 0, 0, 0.17);
+      border-style:solid;
+      border-color:rgb(200, 200, 200);
+      border-width: thin;
+      padding: 1px;
+      width:310px;
+    margin-top: 100px;}
+.container {
+  padding-left: 3px;
+  border-style:solid;
+border-width: thin;
+border-color:rgb(200, 200, 200);}
+p {text-align:left;
+margin: 25px;}
+div {
+margin:auto
+padding-top: 1px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+}
