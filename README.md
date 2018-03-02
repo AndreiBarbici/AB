@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Animal Trading Cards</title>
+	Animal Trading Cards
 	<link rel="stylesheet" href="styles.css">
 </head>
 <body>
